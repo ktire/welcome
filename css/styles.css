@@ -1,0 +1,127 @@
+body{
+  text-align:center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color:#40514e;
+
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Chelsea Market', cursive;
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+h2{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size:1.5rem;
+  color:#66bfbf;
+  font-weight:normal;
+
+
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+  color:#11999e;
+
+}
+
+hr {
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #eaf6f6;
+  border-width: 5px
+}
+
+p{
+  line-height: 2;
+}
+
+
+.top-container{
+  background-color: #eaf6f6;
+  position:relative;
+  padding-top:100px;
+  margin: 0;
+}
+
+.bottom-container{
+  background-color:#66BFBF;
+
+
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+
+
+}
+
+.bottom-cloud{
+  position:absolute;
+  left:340px;
+  bottom:300px;
+}
+.top-cloud{
+  position:absolute;
+  top:70px;
+  right:340px;
+}
+.alberto{
+  width:200px;
+  border-radius:30px;
+  margin-top:100px;
+
+}
+.hello{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.mechanical-engineering{
+  width:150px;
+float:right;
+margin-left:30px;
+}
+.project-management{
+  float:left;
+  margin-right:30px;
+
+}
+.copyright{
+  color:#EAf6f6;
+}
+.footer-link {
+  color:#11999e;
+  margin:20px 10px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color:#EAF6F6;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #EAF6F6;
+   font-family: Open Sans;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 22px;
+   background-color: #11999E;
+   border: solid #11999E 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #1E62D0;
+   border: solid #337FED 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
